@@ -1,0 +1,13 @@
+<Project SDL="Microsoft.NET.Sdk">
+
+<PropertyGroup>
+  <OutputType>WinExe</OutputType>
+  <TragetFramework>net6.0-window</TragetFramework>
+  <RootNamespace>Street_Ffighter_Demo_MOO_ICT</RootNamespace>
+  <Nullable >enable</Nullable>
+  <UseWidnowsForm>true</UseWindowForms>
+  <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGGroup>
+
+  </Project>
+  
